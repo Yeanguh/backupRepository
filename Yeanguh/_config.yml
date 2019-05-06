@@ -87,5 +87,5 @@ theme: maupassant
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://Yeanguh:yyh793420325@github.com/Yeanguh/Yeanguh.github.io.git
+  repo: https://Yeanguh:**********/Yeanguh/Yeanguh.github.io.git
   branch: master
